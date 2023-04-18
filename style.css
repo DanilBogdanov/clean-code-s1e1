@@ -22,7 +22,8 @@
 
 @media (max-width:768px) {
 
-  .info-block { text-align: center;
+  .info-block {
+    text-align: center;
   }
 
 }
@@ -48,11 +49,13 @@
   padding: 0px;
 }
 
-.list-item, .title {
+.list-item,
+.title {
   list-style: none;
 }
 
-.input,.btn{
+.input,
+.btn{
   outline: none;
 }
 
